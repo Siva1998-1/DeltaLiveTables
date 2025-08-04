@@ -93,3 +93,7 @@ LakeFlow Editor
 
 📝 Summary
 This course is a great starting point for understanding modern data engineering workflows on Databricks. It brings clarity to how Declarative Pipelines, Delta Live Tables, and the Medallion Architecture come together to create scalable, reliable, and production-ready pipelines.
+
+<img width="1900" height="992" alt="image" src="https://github.com/user-attachments/assets/003b54f5-6c4b-4eb3-a429-c2a0e9622a1e" />
+
+
